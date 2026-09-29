@@ -1,0 +1,9 @@
+{
+  "name": "EcoScan - Smart Waste Management Platform",
+  "description": "Smart waste management platform connecting residents, collectors, and admins with real-time AI waste detection, dry/wet classification, GPS tracking, and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
